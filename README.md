@@ -1,6 +1,6 @@
 ## Numeric Callouts
 
-*Disclaimer: I may never use githbub the way it is intended. I have plans to share gems and projects that may involve collaboration, but I suspect most of my "projects" will be little more than code showcases.*
+*Disclaimer: I may never use github the way it is intended. I have plans to share gems and projects that may involve collaboration, but I suspect most of my "projects" will be little more than code showcases.*
 
 
 ### Orientation
